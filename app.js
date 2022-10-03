@@ -74,7 +74,7 @@ name.forEach(element => {
       console.log(element)  
     });
     
-    answer of question no 12
+//    answer of question no 12
     
     var name = ["faraz","ahmed", "khan"]
 name.forEach(element => {
